@@ -1,0 +1,6 @@
+{
+  "name": "AS.FUN",
+  "description": "A playground of curious minigames and interactive web toys inspired by neal.fun, featuring Infinite Alchemy, The Password Game, Spend a Fortune, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

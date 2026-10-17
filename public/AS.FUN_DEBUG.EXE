@@ -1,0 +1,31 @@
+MZ
+================================================================================
+                    AS.FUN DEBUG EXECUTABLE (DEBUG.EXE)
+              Official GitHub Release: https://github.com/as-fun/as-fun
+================================================================================
+
+[SYSTEM INFO]
+Program: AS.FUN Debug Utility
+Version: 1.0.0-PROD
+Runtime: Win32 / DOS / Web CLI
+Compiled For: AS.FUN Playground (Inspired by neal.fun)
+
+[DEBUG COMMANDS & REPOSITORY HOOKS]
+- GITHUB REPO: https://github.com/as-fun/as-fun
+- SOURCE FILE: /src/games/DebugExe.tsx
+- ALL GAMES REGISTERED:
+    * Infinite Alchemy (100+ Element Fusion Recipes)
+    * The Absurd Password Game (14 Cascading Impossible Rules)
+    * Spend a Billionaire's Fortune ($250 Billion Cart)
+    * Draw a Perfect Circle (Centroid Radial Variance Engine)
+    * Cosmic Asteroid Simulator (Megaton Kinetic Impact)
+    * Paper Folding to the Moon (Exponential 2^n Scale Engine)
+    * Life in Real Time (Live Cosmic & Human Tickers)
+    * Who Was Alive? (1450-2026 Historical Coincidence Engine)
+
+[IN-APP DEBUG CONSOLE]
+To run live debug diagnostics, open the AS.FUN web app and click "DEBUG.EXE" or press '#' in browser.
+
+================================================================================
+                          END OF DEBUG HEADER
+================================================================================
